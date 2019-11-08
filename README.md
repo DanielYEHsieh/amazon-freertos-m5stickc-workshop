@@ -3,7 +3,7 @@
 Amazon FreeRTOS workshop using [M5StickC](https://docs.m5stack.com/#/en/core/m5stickc)
 
 
-## Introduction
+## Introduction:
 
 This workshop is designed to run on the M5StickC device. It includes multiple labs to get up and running.
 
